@@ -8,6 +8,8 @@
 ## add on ##
   
 ## Contents ##
+https://github.com/SJ-magic-study-oF/ofSoundPlayer_BugFix  
+のtest用 source code.
 
 ## Device ##
 
